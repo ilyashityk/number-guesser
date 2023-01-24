@@ -56,7 +56,7 @@ def restart():
             player_answer = input()
 
 
-print('Welcome to the Number Guesser')
+print('Welcome to the Number Guesser!')
 print('We will play a game with you in which you will need to guess a hidden number from 1 to n.')
 game()
 restart()
